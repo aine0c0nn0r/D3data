@@ -1,4 +1,4 @@
-Entity,Code,Year,Deaths - HIV/AIDS - Sex: Both - Age: All Ages (Number),Incidence - HIV/AIDS - Sex: Both - Age: All Ages (Number),Prevalence - HIV/AIDS - Sex: Both - Age: All Ages (Number)
+location,Code,Year, Deaths, Incidence, Prevalence
 Afghanistan,AFG,1990,34,88,41.800000000000004
 Afghanistan,AFG,1991,41,104,49.5
 Afghanistan,AFG,1992,48,120,60.900000000000006
